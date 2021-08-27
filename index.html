@@ -10,8 +10,7 @@
 
 <body>
   <div class="header">
-    <h1 id="paul-amicel-software-engineer-full-stack-web-developer">Paul Amicel<br>Software Engineer, Full Stack Web
-      Developer
+    <h1 id="paul-amicel-software-engineer-full-stack-web-developer">Paul Amicel<br>Software&nbsp;Engineer, Full&nbsp;Stack Web&nbsp;Developer
     </h1>
     <h2 id="contact"><span>Contact</span></h2>
     <p>
@@ -202,11 +201,23 @@
       border: .5px solid lightgray;
     }
 
+    body {
+      padding: 1rem;
+    }
+    @media screen and (min-width: 900px) {
+      body {
+        padding: 0;
+      }
+
+      .content {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        grid-auto-rows: minmax(100px, auto);
+      }
+    }
     .content {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1rem;
-      grid-auto-rows: minmax(100px, auto);
+      padding-bottom: 1rem;
     }
 
     .content .history {
