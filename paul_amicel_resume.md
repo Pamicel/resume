@@ -3,7 +3,9 @@
 ## Contact
 
 paulamicel@gmail.com <br>
-+33 6 18 19 27 31
++33 6 18 19 27 31 <br>
+[github.com/pamicel](https://github.com/pamicel) <br>
+[linkedin.com/in/pamicel](https://linkedin.com/in/pamicel)
 
 ## Domains of expertise
 
@@ -12,7 +14,7 @@ paulamicel@gmail.com <br>
 - VueJS + Vuex (4 years of experience)
 - React + Redux (2 years of experience)
 - Angular (very enthusiastic)
-- Vanilla CSS/HTML/ES3+ (>6 years experience)
+- Vanilla CSS/HTML/JS (>6 years experience)
 
 ### Back end
 
@@ -88,7 +90,7 @@ We created this project with friends while in software engineering school. We se
 
 ### 2016 → 2019 | School 42 | Software architecture
 
-With a strong focus on collaboration, independance, continuous learning (learning how to learn, learn by doing), the school has a very good reputation in the French tech scene. It is free, admission is infamously difficult, based on the candidate's rate of progress during a month long bootcamp called the _Piscine_. The school financed and spearheaded by French billionaire (and most famous computer nerd) Xavier Niel.
+With a strong focus on collaboration, independance, continuous learning (learning how to learn, learn by doing), the school has a very good reputation in the French tech scene. It is free, admission is infamously difficult, based on the candidate's rate of progress during a month long bootcamp called the _Piscine_. The school financed and spearheaded by French billionaire (also one of France's most famous computer nerds) Xavier Niel.
 
 ### 2014 → 2016 | Université Rennes 2 | Physics and robotics
 
